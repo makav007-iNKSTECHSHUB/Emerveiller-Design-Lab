@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/5d05d8e6a89247f48946aa5e7cc28286.txt",
+      "destination": "/index.html"
+    }
+  ]
+}
